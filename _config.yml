@@ -18,9 +18,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 行百里者半九十                          # the main title
+title: CUIRUI                          # the main title
 
-tagline: 测试   # it will display as the sub-title
+tagline: 行百里者半九十   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
